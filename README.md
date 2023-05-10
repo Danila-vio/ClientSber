@@ -1,11 +1,15 @@
-# Getting Started with Create React App
+## Начало
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Для сборки и запуска приложения Вам понадобится скачать два файла из репозиториев:
 
-## Available Scripts
+Клиентская часть приложения - https://github.com/Danila-vio/ClientSber.git
+Серверная часть приложения - https://github.com/Danila-vio/sberKP.git
 
-In the project directory, you can run:
+## Запуск клиентской части
+Для удобства взаимодействия с кодом вом понадобится Visual Studio Code.
+В терминале данной IDE введите следующие команды:
 
+### `cd bank`
 ### `npm start`
 
 Runs the app in the development mode.\
